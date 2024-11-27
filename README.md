@@ -1,4 +1,4 @@
-![Screenshot 2024-11-27 170259](https://github.com/user-attachments/assets/27493c83-e8c3-416d-9e66-65cbe75e8128)# Interactive_Snake_Game
+# Interactive_Snake_Game
 Fun interactive snake game with a camera, implemented in python using PyGame and OpenCV.
 
 # Setup
